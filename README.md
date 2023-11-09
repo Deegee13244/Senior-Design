@@ -10,6 +10,6 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
   * [Project Timeline and Effort Matrix](Design-Submissions/Timeline-Milestones-and-Effort-Matrix.pdf)
 * [ABET Concerns Essay](Design-Submissions/Project-Constraint-Essay.pdf)
 * [Powerpoint Slide Show](Design-Submissions/Senior-Design-Presentation.pdf)
-* [Brad's Professional Bio](Brad-Didier-Professional-Biography.md), [Duncan's Professional Bio](Duncan-Collins_ProfessionalBiography.md), and [Aaliyah's Professional Bio](Aaliyah-Loechner-Professional-Biography.md)
+* [Brad's Professional Bio](Professional-Biographies/Brad-Didier-Professional-Biography.md), [Duncan's Professional Bio](Professional-Biographies/Duncan-Collins_ProfessionalBiography.md), and [Aaliyah's Professional Bio](Professional-Biographies/Aaliyah-Loechner-Professional-Biography.md)
 * [Budget](budget.md)
 * [Appendix]()
