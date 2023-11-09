@@ -1,1 +1,15 @@
-# Senior Design Project
+# TaskHero
+A mobile and web application that gamifies and rewards productivity, allowing users to be productive and feel good doing so.
+Project by Brad Didier, Duncan Collins, Aaliyah Loechner
+
+# Table of Contents
+* [Project Description](Project-Description.md)
+* [User Stories](Design-Submissions/UserStories.md) and [Design Diagrams](Design-Submissions/Design Diagrams.png)
+* Tasks and Timeline
+  * [Project Tasks](Design-Submissions/TaskList.md)
+  * [Project Timeline and Effort Matrix](Design-Submissions/Timeline, Milestones, and Effort Matrix.pdf)
+* [ABET Concerns Essay](Design-Submissions/Project Constraint Essay.pdf)
+* [Powerpoint Slide Show]()
+* [Brad's Professional Bio](), [Duncan's Professional Bio](), and [Aaliyah's Professional Bio]()
+* [Budget](budget.md)
+* [Appendix]()
