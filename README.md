@@ -4,12 +4,12 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
 
 # Table of Contents
 * [Project Description](Project-Description.md)
-* [User Stories](Design-Submissions/UserStories.md) and [Design Diagrams](Design-Submissions/Design Diagrams.png)
+* [User Stories](Design-Submissions/UserStories.md) and [Design Diagrams](Design-Submissions/Design-Diagrams.png)
 * Tasks and Timeline
   * [Project Tasks](Design-Submissions/TaskList.md)
-  * [Project Timeline and Effort Matrix](Design-Submissions/Timeline, Milestones, and Effort Matrix.pdf)
-* [ABET Concerns Essay](Design-Submissions/Project Constraint Essay.pdf)
+  * [Project Timeline and Effort Matrix](Design-Submissions/Timeline-Milestones-and-Effort-Matrix.pdf)
+* [ABET Concerns Essay](Design-Submissions/Project-Constraint-Essay.pdf)
 * [Powerpoint Slide Show]()
-* [Brad's Professional Bio](), [Duncan's Professional Bio](), and [Aaliyah's Professional Bio]()
+* [Brad's Professional Bio](Brad-Didier-Professional-Biography.md), [Duncan's Professional Bio](Duncan-Collins_ProfessionalBiography.md), and [Aaliyah's Professional Bio](Aaliyah-Loechner-Professional-Biography.md)
 * [Budget](budget.md)
 * [Appendix]()
