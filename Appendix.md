@@ -10,7 +10,7 @@ The summary of work hours for each member of our team.
 * Design Interviews: 3 hours
 * Prototyping: 2 hours
 * DataBase Development: 5 hours
-Total: 58 hours
+### Total: 58 hours
 ## Duncan Collins
 * Weekly Meetings: 17 hours
 * Design & Sketching: 10 hours
@@ -19,7 +19,7 @@ Total: 58 hours
 * Project Research: 10 hours
 * Design Interviews: 2 hours
 * Prototyping: 2 hours
-Total: 53 hours
+### Total: 53 hours
 ## Aaliyah Loechner
 * Weekly Meetings: 17 hours
 * Design & Sketching: 11 hours
@@ -28,4 +28,4 @@ Total: 53 hours
 * Project Research:  7 hours
 * Design Interviews: 5 hours
 * Prototyping: 2 hours
-Total: 53 hours
+### Total: 53 hours
