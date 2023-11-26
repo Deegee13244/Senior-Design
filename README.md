@@ -12,4 +12,4 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
 * [Powerpoint Slide Show](Design-Submissions/Senior-Design-Presentation.pdf)
 * [Brad's Professional Bio](Professional-Biographies/Brad-Didier-Professional-Biography.md), [Duncan's Professional Bio](Professional-Biographies/Duncan-Collins_ProfessionalBiography.md), and [Aaliyah's Professional Bio](Professional-Biographies/Aaliyah-Loechner-Professional-Biography.md)
 * [Budget](budget.md)
-* [Appendix]()
+* [Appendix](Appendix.md)
