@@ -1,4 +1,6 @@
-﻿Individual Capstone Essay – Brad Didier
+
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ﻿&nbsp; Individual Capstone Essay
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp; &nbsp; By Brad Didier
 
 &emsp;&emsp;For my senior design project, my group has decided to develop a web application with the primary aim of boosting productivity and task management. For a start, the group has decided that the core functionality of the app will revolve around enabling users to create and manage to-do lists. However, we want to gamify the application by, for starters, implementing some sort of point-based reward system, perhaps. This will provide users with a sense of accomplishment and extra motivation, which we identified as weaknesses in current productivity solutions. We may also experiment with the idea of using those points to unlock rewards, perhaps extra color themes or something similar within the application. My senior project combines task management and gamification to create an engaging productivity tool that encourages its users to stay motivated when performing their tasks.
 
