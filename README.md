@@ -11,8 +11,9 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
 * Tasks and Timeline
   * [Project Tasks](Design-Submissions/TaskList.md)
   * [Project Timeline and Effort Matrix](Design-Submissions/Timeline-Milestones-and-Effort-Matrix.pdf)
-* [ABET Concerns Essay](Design-Submissions/Project-Constraint-Essay.pdf)
-* [Powerpoint Slide Show](Design-Submissions/Senior-Design-Presentation.pdf)
-* [Brad's Professional Bio](Professional-Biographies/Brad-Didier-Professional-Biography.md), [Duncan's Professional Bio](Professional-Biographies/Duncan-Collins_ProfessionalBiography.md), and [Aaliyah's Professional Bio](Professional-Biographies/Aaliyah-Loechner-Professional-Biography.md)
+* [Final Expo Poster](Design-Submissions/Project-Constraint-Essay.pdf)
+* Self Assessments
+  * Initial (Fall):
+  * Final (Spring): 
 * [Budget](budget.md)
 * [Appendix](Appendix.md)
