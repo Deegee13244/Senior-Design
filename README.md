@@ -1,4 +1,4 @@
-![Drawing-23 sketchpad](https://github.com/Deegee13244/Senior-Design/assets/75388877/8a10be84-c370-4221-9cb6-e66499206092) ![Drawing-24 sketchpad](https://github.com/Deegee13244/Senior-Design/assets/75388877/0cd2a60b-34c1-4bbd-a86a-8e8cc8398b51)
+&emsp;&emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp;    ![Drawing-25 sketchpad](https://github.com/Deegee13244/Senior-Design/assets/75388877/ee82847d-f942-4858-82b2-74589abf86db)
 
 A mobile and web application that gamifies and rewards productivity, allowing users to be productive and feel good doing so. 
 Project by Brad Didier, Duncan Collins, Aaliyah Loechner
