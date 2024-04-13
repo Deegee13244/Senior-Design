@@ -5,7 +5,7 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
 
 # Table of Contents
 * [Project Description](Project-Description.md)
-* [Project Code (external repository)]
+* [Project Code (external repository)](https://github.com/duncan222/TASKHEROAPI)
 * [User Stories](Design-Submissions/UserStories.md) and [Design Diagrams](Design-Submissions/Design-Diagrams.png)
 * User Manual
 * [Final Presentation](https://prezi.com/view/WSnXnDEXf5VbXeklmjLc/)
