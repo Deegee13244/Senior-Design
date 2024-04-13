@@ -17,7 +17,7 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
   * Initial (Fall):
     * Aaliyah
     * [Brad](Individual-Essay-Assessment/Individual-Essay-Brad.md)
-    * [Duncan](Individual-Essay-Assessment/Capstone-Essay.md)
+    * [Duncan](Individual-Essay-Assessment/Capstone-Essay.pdf)
   * Final (Spring):
     * Brad
     * Aaliyah
