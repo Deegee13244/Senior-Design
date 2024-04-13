@@ -50,22 +50,36 @@ Below is a representation of an advanced user. They have a large completion stre
 
 ### Task Page
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (4)](https://github.com/Deegee13244/Senior-Design/assets/75388877/61658c50-6493-4649-8069-07a43b0e11f1)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (5)](https://github.com/Deegee13244/Senior-Design/assets/75388877/f9e744c5-2254-4cb9-a608-b05d47ad851e)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (7)](https://github.com/Deegee13244/Senior-Design/assets/75388877/48bd4443-e1f4-489a-9597-812389173a51)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (6)](https://github.com/Deegee13244/Senior-Design/assets/75388877/cacae614-eb95-4713-bb12-1177adb6385c)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (8)](https://github.com/Deegee13244/Senior-Design/assets/75388877/01019a10-c8fd-4914-8b24-e9bf0880bf88)
+
+
 ### Add-Task Component 
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (9)](https://github.com/Deegee13244/Senior-Design/assets/75388877/e17b6a09-1ea9-41a3-8cf6-7ab4dc4ff979)
 
 ### Social Page 
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (12)](https://github.com/Deegee13244/Senior-Design/assets/75388877/61b37d20-4c79-4d76-97ce-bd8ea1fa2960)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (10)](https://github.com/Deegee13244/Senior-Design/assets/75388877/842e8c06-299c-42d9-9f36-c0aa0d52001a)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (11)](https://github.com/Deegee13244/Senior-Design/assets/75388877/f101e4ec-c1b3-4474-991d-56130443e97d)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (13)](https://github.com/Deegee13244/Senior-Design/assets/75388877/f6b664d3-f16b-4f16-bffe-e819e5ef1daf)
+
+
 ### User Profile 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (14)](https://github.com/Deegee13244/Senior-Design/assets/75388877/0fdbf203-4f51-4752-81c6-786fa324398a)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (15)](https://github.com/Deegee13244/Senior-Design/assets/75388877/e7a51a42-77d6-47e1-86ff-16b65ec59277)
 
-The user is able to enter a settings screen to edit personalization settings and security settings. 
+## FAQ: 
 
-1. Personalization settings:
-1. Color theme (radio buttons)
-2. Avatar (select from preset avatar images)
-2. Security settings:
-1. Account privacy (toggle between private/public)
-2. Data sharing (allow data to be shared to developers)
-
-### Website Navigation
-
-The application has several different pages with unique functionality's to help the user complete their daily tasks. Here is a quick rundown of these different pages and how to navigate them:
 
