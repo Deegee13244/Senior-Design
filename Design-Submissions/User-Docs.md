@@ -8,7 +8,7 @@
 
 # &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; User Manual 
 
-This is the manual to help with first time users to our web applications. For instructions on setting up our environment please check out the [external code repository](https://github.com/duncan222/TASKHEROAPI).
+This is the manual to help with first time users to our web applications. For instructions on setting up our development environment please check out the [external code repository](https://github.com/duncan222/TASKHEROAPI).
 
 ## Account Setup & User Login 
 
