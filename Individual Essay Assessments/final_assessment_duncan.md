@@ -1,10 +1,3 @@
-###Duncan Collins
-###Professor Annexstein
-###Senior Design II
-###04/11/2024
-
-
-                                         ###Self-Assessment
 
   Throughout the past academic year, I played a pivotal role in our Senior Design project, focusing on the
 development of the project's API using .NET and Entity Framework, crafting client-side web pages with Angular
