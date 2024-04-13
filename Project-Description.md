@@ -7,12 +7,15 @@
 - Duncan Collins
 	- Major: Computer Science
 	- Email: collidu@mail.uc.edu
+   	- [Duncan's Professional Bio](Professional-Biographies/Duncan-Collins_ProfessionalBiography.md)
 - Aaliyah Loechner
 	- Major: Computer Science
 	- Email: loechnam@mail.uc.edu
+   	- [Aaliyah's Professional Bio](Professional-Biographies/Aaliyah-Loechner-Professional-Biography.md)
 - Brad Didier
 	- Major: Computer Science
 	- Email: bdidier@mail.uc.edu
+ 	- [Brad's Professional Bio](Professional-Biographies/Brad-Didier-Professional-Biography.md)
 
 ## Project Info: ##
 
