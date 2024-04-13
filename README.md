@@ -11,7 +11,7 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
 * Tasks and Timeline
   * [Project Tasks](Design-Submissions/TaskList.md)
   * [Project Timeline and Effort Matrix](Design-Submissions/Timeline-Milestones-and-Effort-Matrix.pdf)
-* [Final Expo Poster](Design-Submissions/Project-Constraint-Essay.pdf)
+* [Final Expo Poster](Task_Hero_Expo_Poster.pdf)
 * Self Assessments
   * Initial (Fall):
   * Final (Spring): 
