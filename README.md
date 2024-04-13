@@ -6,6 +6,8 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
 # Table of Contents
 * [Project Description](Project-Description.md)
 * [User Stories](Design-Submissions/UserStories.md) and [Design Diagrams](Design-Submissions/Design-Diagrams.png)
+* User Manual
+* [Final Presentation](https://prezi.com/view/WSnXnDEXf5VbXeklmjLc/)
 * Tasks and Timeline
   * [Project Tasks](Design-Submissions/TaskList.md)
   * [Project Timeline and Effort Matrix](Design-Submissions/Timeline-Milestones-and-Effort-Matrix.pdf)
