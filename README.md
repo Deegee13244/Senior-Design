@@ -16,10 +16,11 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
 * Self Assessments
   * Initial (Fall):
     * Aaliyah
-    * [Brad](Individual-Essay-Assessments/Individual-Essay-Brad.md)
+    * [Brad](Individual-Essay-Assessment/Individual-Essay-Brad.md)
+    * [Duncan](Individual-Essay-Assessment/Capstone-Essay.md)
   * Final (Spring):
     * Brad
     * Aaliyah
-    * [Duncan](Individual-Essay-Assessments/final-assessment-duncan.md)
+    * [Duncan](Individual-Essay-Assessment/final-assessment-duncan.md)
 * [Budget](budget.md)
 * [Appendix](Appendix.md)
