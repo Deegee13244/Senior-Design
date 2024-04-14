@@ -20,7 +20,8 @@
 ## Project Info: ##
 
 ### Abstract: ###
-Introducing Task Hero: Your ultimate productivity sidekick! Conquer tasks with flair--add, edit, and delete tasks with ease. Unleash your social side by finding and following friends, and climb the leaderboard by competing against your friends and users around the globe. Plus, level up your productivity journey with a dynamic progress bar and unlock exciting rewards and achievements along the way! 
+
+Task Hero is a gamified mobile and web application that allows users to tackle daily tasks in a fun and interactive way. The user plays as a hero and battles the weekly villain by completing tasks. Users can also compete against friends to reach the top of the leaderboard. By combining single-player satisfaction and multiplayer competition, Task Hero can bring the user's productivity to the next level!
 
 ### Topic Area: ### 
 Our goal was to create a web application using our team member's shared experiences in full-stack development. We aimed to create a productivity tool that users can use to keep track of tasks and enhance how productive they are throughout their day. We wanted to make it fun and rewarding, and implemented ways to "gamify" the experience for users.
