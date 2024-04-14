@@ -1,9 +1,12 @@
 # Resources
-## Money Spent
-$0
+## Total Expenses
+$132.01
 
-## Monetary Value of Donations
-$0
+## Monetary Value of Donations/Discount
+$100
+
+## Total Spent by Team after Donations/Discount
+$32.01
 
 # Planned Expenditures
-We do not have any expenditures planned for the future. We have been using free Azure student credit to host cloud resources needed for development.
+We do not have any expenditures planned for the future. 
