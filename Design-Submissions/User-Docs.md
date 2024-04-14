@@ -185,6 +185,6 @@ If you press the edit avatar button on the right hand side of the profile pictur
 1. What information is displayed on the User Profile page?
   * Your profile displays achievements, score, followers, and options to edit your profile, change your avatar, or sign out.
 
-2. Can I customize my profile?
-  * Yes, you can change your username, password, and avatar from the User Profile page. Some avatars may be locked until you reach a certain score threshold.
+2. How can I customize my profile?
+  * You can change your username, password, and avatar from the User Profile page. Some avatars may be locked until you reach a certain score threshold.
 
