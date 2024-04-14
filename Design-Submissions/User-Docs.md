@@ -152,10 +152,10 @@ If you press the edit avatar button on the right hand side of the profile pictur
 
 ### Home Page
 1. What information is displayed on the home page?
-  * The home page displays your current tasks sorted first by urgency (due date) and second by priority. Additionally, you'll see your badge, score, streak, and health bars.
+  * The home page displays your current tasks sorted first by urgency (due date) and second by priority. Additionally, you'll see your badge, score, streak, and progress bars.
 
 2. How does completing tasks affect my score and progress?
-  * Completing tasks on time increases your score and progress and decreases the progress of the villain. Depending on various factors like task priority and completion time, your score may increase or decrease.
+  * Completing tasks on time increases your score and progress, and decreases the progress of the villain. If you complete tasks after the due date, you score and progress will decrease!
 
 3. Why did the villain's progress bar increase?
   * When you add tasks, the villains progress bar increases. Complete tasks ON TIME in order to deplete the villain's progress bar. 
@@ -165,7 +165,7 @@ If you press the edit avatar button on the right hand side of the profile pictur
   * You can add, edit, mark-off, and delete tasks on the Task Page. Tasks are displayed with their titles, descriptions, due dates, and priority levels.
 
 2. Can I customize the display of tasks?
-  * Yes, you can sort tasks by due date or priority. Tasks are color-coded based on priority for easier identification.
+  * Yes, you can sort tasks by due date or priority using the filter dropdown at the top of the task list. Tasks are also color-coded based on priority for easier identification.
 
 ### Add-Task Component
 1. How is this component different from the Tasks Page and how do I use it?
