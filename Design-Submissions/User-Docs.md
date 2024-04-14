@@ -135,6 +135,56 @@ If you press the edit avatar button on the right hand side of the profile pictur
 <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (15)](https://github.com/Deegee13244/Senior-Design/assets/75388877/e7a51a42-77d6-47e1-86ff-16b65ec59277)
 
-## FAQ: 
+## Frequently Asked Questions (FAQ)
+### Account Setup & User Login
+1. How do I create an account for the web application?
+To create an account, navigate to the sign-up page and provide your email, username, and password.
 
+2. Can I use my email and password to log in?
+Yes, once you've created an account, you can log in using your email and password on the sign-in page.
+
+### Site Navigation: The Navbar
+1. How do I navigate through the web application?
+After logging in, you'll be directed to the home page. Use the navbar to switch between pages such as Home, Tasks, Add Task, Social, and Profile.
+
+2. What options are available on the navbar?
+The navbar options include Home, Tasks, Add Task, Social, and Profile. These options provide convenient navigation throughout the application.
+
+### Home Page
+1. What information is displayed on the home page?
+The home page displays your current tasks sorted first by urgency (due date) and second by priority. Additionally, you'll see your badge, score, streak, and health bars.
+
+2. How does completing tasks affect my score and progress?
+Completing tasks on time increases your score and progress and decreases the progress of the villain. Depending on various factors like task priority and completion time, your score may increase or decrease.
+
+3. Why did the villain's progress bar increase?
+When you add tasks, the villains progress bar increases. Complete tasks ON TIME in order to deplete the villain's progress bar. 
+
+### Task Page
+1. How do I manage tasks on the Task Page?
+You can add, edit, mark-off, and delete tasks on the Task Page. Tasks are displayed with their titles, descriptions, due dates, and priority levels.
+
+2. Can I customize the display of tasks?
+Yes, you can sort tasks by due date or priority. Tasks are color-coded based on priority for easier identification.
+
+### Add-Task Component
+1. How is this component different from the Tasks Page and how do I use it?
+Use the Add Task component accessible from any page. The idea is to be able to "quick-add" tasks from anywhere at any time. Enter the task details such as title, description, due date, and priority level, then click the add button.
+
+2. Are there any restrictions on adding tasks?
+No, you can add tasks freely. However, consider setting realistic due dates and priorities for effective task management.
+
+### Social Page
+1. What features are available on the Social Page?
+The Social Page allows you to connect with other users, view leaderboards, compare achievements, and search for specific users.
+
+2. How do I interact with other users on the Social Page?
+You can follow/unfollow users, view their scores, achievements, and profiles. Use the search tool to find and connect with friends.
+
+### User Profile
+1. What information is displayed on the User Profile page?
+Your profile displays achievements, score, followers, and options to edit your profile, change your avatar, or sign out.
+
+2. Can I customize my profile?
+Yes, you can change your username, password, and avatar from the User Profile page. Some avatars may be locked until you reach a certain score threshold.
 
