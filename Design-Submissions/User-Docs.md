@@ -123,17 +123,25 @@ Below is the search tool, which allows the user to search for another user by th
 
 When you click on a username displayed in either the global, local, or search page you will be redirected to that users profile. This is where you have the option to follow/unfollow a user, see their score and badge, view their achievements and their account stats. 
 <br>
+<br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (13)](https://github.com/Deegee13244/Senior-Design/assets/75388877/f6b664d3-f16b-4f16-bffe-e819e5ef1daf)
 <br>
 ### User Profile 
 The last option in the navbar is the user profile. This page displays all of your achievements/villains, your current score, and the number of people following you (if you click on the number is displays the users as a list). It also offers you the ability to change your username and password through the edit profile button or sign out of your account all together. 
 <br>
+<br>
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (14)](https://github.com/Deegee13244/Senior-Design/assets/75388877/0fdbf203-4f51-4752-81c6-786fa324398a)
 <br>
-If you press the edit avatar button on the right hand side of the profile picture, you will be redirected to the page below where you are given the option to change your avatar. Some of the avatars are only available to users with a certain number of points to their name, otherwise they will be locked until your score has surppased that amount. Encouraging you to do better and get tasks done on time!
 <br>
+
+If you press the edit avatar button on the right hand side of the profile picture, you will be redirected to the page below where you are given the option to change your avatar. Some of the avatars are only available to users with a certain number of points to their name, otherwise they will be locked until your score has surppased that amount. Encouraging you to do better and get tasks done on time!
+<br><br>
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Drawing-27 sketchpad (15)](https://github.com/Deegee13244/Senior-Design/assets/75388877/e7a51a42-77d6-47e1-86ff-16b65ec59277)
+<br>
+<br>
 
 ## Frequently Asked Questions (FAQ)
 ### Account Setup & User Login
