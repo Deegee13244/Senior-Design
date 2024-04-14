@@ -93,12 +93,14 @@
   * Following
     * Shows leaderboard of only other users the user follows
     * User can click any user on this page to see the selected user's profile page
+    * User can unfollow from selected users profile page 
   * All Users
     * Shows global leaderboard and where user falls among all Task Hero users based on total score
     * Users can select any user from this page to see the profile page of selected user
+    * User can follow/unfollow from selected user's profile page
   * Search User
     *  Type a username in the input box and click magnifying glass to search
-    *  You can select users and follow them by clicking on any user that pops up during the search
+    *  User can select users and follow them by clicking on any user that pops up during the search
 ## Profile Page 
 * User Avatar/Edit Avatar
   * User has a default avatar or can change avatar by clicking the pencil icon near their avatar
