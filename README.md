@@ -12,7 +12,8 @@ Project by Brad Didier, Duncan Collins, Aaliyah Loechner
 * Tasks and Timeline
   * [Project Tasks](Design-Submissions/TaskList.md)
   * [Project Timeline and Effort Matrix](Design-Submissions/Timeline-Milestones-and-Effort-Matrix.pdf)
-* [Final Expo Presentation (prezi link)](https://prezi.com/view/WSnXnDEXf5VbXeklmjLc/)
+* [Final Expo/User Presentation (prezi link)](https://prezi.com/view/WSnXnDEXf5VbXeklmjLc/)
+* [Final Technical Presentation (prezi link)](https://prezi.com/view/JscGhY7grohseQZjhgn3/)
 * [Final Expo Poster](Task_Hero_Expo_Poster.pdf)
 * Self Assessments
   * Initial (Fall):
