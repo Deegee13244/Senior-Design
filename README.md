@@ -19,12 +19,12 @@ Project by Brad Didier, Duncan Collins, and Aaliyah Loechner
 * [Final Expo Poster](Task_Hero_Expo_Poster.pdf)
 * Self Assessments
   * Initial (Fall):
-    * [Aaliyah](Individual-Essay-Assessment/Aaliyah-Loechner-Individual-Essay.pdf)
     * [Brad](Individual-Essay-Assessment/Individual-Essay-Brad.md)
     * [Duncan](Individual-Essay-Assessment/Capstone-Essay.pdf)
+    * [Aaliyah](Individual-Essay-Assessment/Aaliyah-Loechner-Individual-Essay.pdf)
   * Final (Spring):
     * Brad
-    * Aaliyah
     * [Duncan](Individual-Essay-Assessment/final-assessment-duncan.md)
+    * Aaliyah
 * [Budget](budget.md)
 * [Appendix](Appendix.md)
