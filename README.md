@@ -2,7 +2,7 @@
 
 Introducing Task Hero: Your ultimate productivity sidekick! Conquer tasks with flair--add, edit, and delete tasks with ease. Unleash your social side by finding and following friends, and climb the leaderboard by competing against your friends and users across the globe. Plus, level up your productivity journey with a dynamic progress bar and unlock exciting rewards and achievements along the way! 
 
-A mobile and web application by Brad Didier, Duncan Collins, Aaliyah Loechner
+A mobile and web application by Brad Didier, Duncan Collins, and Aaliyah Loechner
 
 # Table of Contents
 * [Project Description](Project-Description.md)
