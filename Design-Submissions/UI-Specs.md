@@ -80,5 +80,38 @@
         * If user selects "Yes", task is deleted, page refreshes, and user score, streaks, and progress bar increase
         * If user selects "No", task stays on page and nothing happens
 ## Add Task Popup
+* Same concept as Add Task box on the Tasks Page
+* User can input task:
+    * Title
+    * Description
+    * Due Date
+    * Priority
+  * "Plus sign" button to add task
+    * Task is added to "Task List" on the Tasks Page
 ## Social/Leaderboard Page
+* Three buttons across the top, navigate to different social content:
+  * Following
+    * Shows leaderboard of only other users the user follows
+    * User can click any user on this page to see the selected user's profile page
+  * All Users
+    * Shows global leaderboard and where user falls among all Task Hero users based on total score
+    * Users can select any user from this page to see the profile page of selected user
+  * Search User
+    *  Type a username in the input box and click magnifying glass to search
+    *  You can select users and follow them by clicking on any user that pops up during the search
 ## Profile Page 
+* User Avatar/Edit Avatar
+  * User has a default avatar or can change avatar by clicking the pencil icon near their avatar
+    * User can select a new avatar (based on how many points the user has, more avatars may be available)
+    * Save changes
+    * Return to profile page
+* Edit Profile button
+  * Allows user to change username and/or password for the account
+  * Any changed information must be saved with the "Save changes" button
+* Sign out button
+  * Takes user back to log in page  
+* Followers, Points, Achievements
+  * Keeps a count of how many followers, points, and achievements the user has
+  * Can toggle over followers to view user followers
+* Achievements menu
+  * Shows achievement icons for all achievements the user has earned so far
