@@ -36,6 +36,13 @@
   * Profile Page (single person icon)
     * Clicking any icon navigates user to that page
 ## Home Page
+* Levels and Streaks box
+ * Medal-like icon to show current user level
+ * Fire icon shows how many tasks user has completed without missing any due dates
+   * Text says how many tasks in streak
+ * Ice icon shows if user has no streak
+   * Text says user has no streak
+*
 ## Tasks Page
 ## Add Task Popup
 ## Social/Leaderboard Page
