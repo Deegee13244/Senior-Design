@@ -1,6 +1,6 @@
 &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;     ![Drawing-25 sketchpad](https://github.com/Deegee13244/Senior-Design/assets/75388877/ee82847d-f942-4858-82b2-74589abf86db)
 
-Introducing Task Hero: Your ultimate productivity sidekick! Conquer tasks with flair--add, edit, and delete tasks with ease. Unleash your social side by finding and following friends, and climb the leaderboard by competing against your friends and users around the globe. Plus, level up your productivity journey with a dynamic progress bar and unlock exciting rewards and achievements along the way!
+Introducing Task Hero: Your ultimate productivity sidekick! Conquer tasks with flair - add, edit, and delete tasks with ease. Unleash your social side by finding and following friends, and climb the leaderboard by competing against your friends and users around the globe. Plus, level up your productivity journey with a dynamic progress bar and unlock exciting rewards and achievements along the way!
 
 Project by Brad Didier, Duncan Collins, and Aaliyah Loechner
 
