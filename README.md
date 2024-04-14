@@ -9,9 +9,8 @@ Project by Brad Didier, Duncan Collins, and Aaliyah Loechner
 * [Project Code (external repository)](https://github.com/duncan222/TASKHEROAPI)
 * User Interface Specification
 * [Test Plan](Design-Submissions/Test-Plan.pdf)
-* [User Manual / Introduction](Design-Submissions/User-Docs.md)
+* [User Manual](Design-Submissions/User-Docs.md)
 * [User Stories](Design-Submissions/UserStories.md) and [Design Diagrams](Design-Submissions/Design-Diagrams.png)
-* User Manual
 * Tasks and Timeline
   * [Project Tasks](Design-Submissions/TaskList.md)
   * [Project Timeline and Effort Matrix](Design-Submissions/Timeline-Milestones-and-Effort-Matrix.pdf)
