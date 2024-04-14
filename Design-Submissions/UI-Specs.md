@@ -37,12 +37,20 @@
     * Clicking any icon navigates user to that page
 ## Home Page
 * Levels and Streaks box
- * Medal-like icon to show current user level
- * Fire icon shows how many tasks user has completed without missing any due dates
-   * Text says how many tasks in streak
- * Ice icon shows if user has no streak
-   * Text says user has no streak
-*
+  * Medal-like icon to show current user level
+  * Fire icon shows how many tasks user has completed without missing any due dates
+    * Text says how many tasks in streak
+  * Ice icon shows if user has no streak
+    * Text says user has no streak
+* Task box
+  * Shows sleepy super hero if no tasks exist
+    * Prompts user to add more tasks
+  * Shows task titles and due date in green if tasks exist
+    * Green check mark button on right side of each task to mark task as completed
+* Progress bars
+  * One progress bar for user (hero) and one progress bar for the weekly villain
+  * As tasks are added, progress bar for villain goes up and user's goes down
+  * As tasks are marked as completed, progress bar for villain goes down and user's goes up  
 ## Tasks Page
 ## Add Task Popup
 ## Social/Leaderboard Page
