@@ -25,6 +25,6 @@ Project by Brad Didier, Duncan Collins, and Aaliyah Loechner
   * Final (Spring):
     * [Brad](Individual-Essay-Assessment/brad-final-self-assessment.md)
     * [Duncan](Individual-Essay-Assessment/final-assessment-duncan.md)
-    * Aaliyah
+    * [Aaliyah](Individual-Essay-Assessment/AaliyahLoechnerFinalAssessment.pdf)
 * [Budget](budget.md)
 * [Appendix](Appendix.md)
